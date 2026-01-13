@@ -45,7 +45,9 @@ Built faster. Cleaner. Smarter.
 - Lightweight & performance-optimized  
 
 ![Positioning Controls](https://i.ibb.co/1JdcJbzM/See-how-positioning-changes-instantly-in-real-time.jpg)  
+<img src="https://i.ibb.co/XxQnW0kS/Floating-CTADemo-Advanced-Floating-Content.gif" alt="Floating call to action demo using Advanced Floating Content plugin" border="0">
 ![WooCommerce Promo Demo](https://i.ibb.co/vvC0Bcz6/View-Woo-Commerce-Floating-Promo-Demo.jpg)
+<img src="https://i.ibb.co/KxszzdpT/Woo-Promo-Demo-Advanced-Floating-Content.gif" alt="Animated WooCommerce promo bar created with Advanced Floating Content" border="0">
 
 ## Who It's For
 - Marketers & agencies → Promotions, lead gen, reusable client setups  
